@@ -1,0 +1,34 @@
+#contact-image{
+    height: 95vh;
+    width: 477px;
+    margin-left: -31px;
+    object-fit: fill;
+    margin-top: 0vw;
+}
+
+.theme-color{
+        background-color: #0f0f0f;
+}
+.theme-setting{
+    background-color: #0f0f0f;
+    height: 100vh;
+}
+
+#email-box,#password-box,#message-box{
+   border-color: #0f0f0f;
+   border-bottom-color: white;
+}
+
+#submit{
+
+    border-radius: 3.5vw;
+}
+#cancel-btn{
+    width: 5vw;
+    padding: 0px;
+    margin: 0px;
+}
+#cancel-btn-container{
+   right: 0vw;
+}
+ 

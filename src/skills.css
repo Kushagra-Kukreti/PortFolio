@@ -1,0 +1,20 @@
+.main{
+    margin-left: 25%;
+}
+.heading{
+
+    margin-left: 23.5%;
+    margin-top: 5%;
+    color: white;
+
+}
+
+.heading:hover{
+
+  color: rgb(0, 255, 106);
+
+}
+
+.skill:hover{
+    border: 2px solid green;
+}

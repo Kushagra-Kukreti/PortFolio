@@ -1,0 +1,58 @@
+#header {
+    background-color: black;
+    border-bottom: 1px solid white;
+    width: 98vw;
+    margin: auto;
+
+}
+
+ 
+
+#top-heading {
+    width: 18rem;
+    color: white;
+    background-color: black;
+    width: 40vw;
+    font-size: 5vw;
+    border-bottom: 1px solid white;
+}
+
+#top-square {
+
+    position: relative;
+    margin-left: 22vw;
+    margin-top: 3vw;
+    height: 27vw;
+    width: 27vw;
+    /* border-radius: 200px; */
+    border: 10px solid white;
+
+}
+
+#cv-btn {
+
+    width: 20vw;
+    border-radius: 30px;
+
+}
+
+#download-btn {
+    width: 20vw;
+    border-radius: 30px;
+
+}
+
+.home-lower-cards {
+    padding: 0;
+    height: 20vw;
+    width: 20vw;
+    margin: 2vw;
+    margin-top: 10vw;
+    border-radius: 21px;
+}
+
+.sections-heading{
+    font-size: 28px;
+    margin-left: -6px;
+    margin-top: 150px;
+}
